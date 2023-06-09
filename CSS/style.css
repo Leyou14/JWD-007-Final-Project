@@ -28,3 +28,8 @@ input{
 .card{
   margin: auto 30px;
 }
+.list-group{
+  background-color: gainsboro;
+  color: black;
+}
+
